@@ -1,0 +1,1 @@
+var subscriptionObject = new Object();
